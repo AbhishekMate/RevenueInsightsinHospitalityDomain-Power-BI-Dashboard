@@ -1,4 +1,4 @@
-Hotel Bookings Analysis Dashboard
+Revenue Insights in Hospitality Domain Dashboard
 
 **📊 Hospitality Domain Analysis**  
 
